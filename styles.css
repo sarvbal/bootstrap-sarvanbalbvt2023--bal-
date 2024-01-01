@@ -1,0 +1,113 @@
+.body{
+    height: 100vh;
+}
+
+.container-fluid {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.row {
+    margin: 0;
+}
+
+
+.compose-btn {
+    top: -15px;
+}
+
+.card {
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+} 
+
+.search {
+    margin: 10px;
+    text-align: center;
+}
+
+.email-inspect-subject {
+    text-align: center;
+}
+
+.nav-item:first-child {
+    margin-top: 20px; 
+    width: 20%;
+}
+
+.email-inspect-sender {
+    text-align: center; 
+}
+
+.btn {
+   text-align: right;
+}
+
+.reply-section {
+    
+    max-width: 100%;
+    position: relative;
+}
+
+.form-control {
+    border: 2px solid white;
+    width: 100%;
+}
+
+.reply-btn {
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
+
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    border-radius: 10px;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+    border-radius: 10px;
+    
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+
+
+ 
+  
+ 
+  
+
+
+
+
+
+
+
+
