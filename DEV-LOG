@@ -1,0 +1,57 @@
+# bootstrap-sarvanbalbvt2023--bal-
+Bootstrap Grid Project
+12/2/2023
+5:00 PM-7:00 PM
+Made basic layout just like three columns that can change at size but no content
+Thinking about what to do and where I should start
+I made some sketches of the design and will upload 
+Made navbar and compose button for the very left of the screen 
+
+12/16/2023 
+2:00 PM-3:00 PM
+Made a search bar in the middle part
+I made a reply button and tried to get it on the bottom right but I couldn’t figure out what I was doing wrong because I used the same method as the compose but I can use the CS class to transfer the button anyway. 
+
+12/18/2023
+5:00 PM-6:30 PM
+Added card elements from Bootstrap, which came with a button already 
+Added the email to the very right
+I customized some of the aspects of what I added 
+
+12/26/2023
+5:00 PM-7:00 PM 
+Add CSS elements to the outline CSS file
+Centered the Search and other aspects 
+The inbox button had no space between itself and the margin. Fixed it 
+Making a reply section but struggling to insert the reply button inside the text area, 
+https://www.youtube.com/watch?v=kr5nR6qHScA 
+This video helped me figure out the issue even though it was a little different 
+
+12/28/2023
+6:00 PM-7:00 PM
+It is customizing the search bar and going to use the former video as a frame of reference to make it look better than the default search. 
+https://www.w3schools.com/howto/howto_css_search_button.asp 
+Used this to make a search bar with an icon. 
+Set up a font awesome account so I can use the User profile pic. I will implement it tomorrow. 
+
+12/29/2023
+Added a user icon top left button and made it look and behave how I wanted 
+Going to add space above the search bar and try to round it to match everything else 
+
+
+
+
+12/30/2023 
+5:00 PM-7:00 PM
+Ran into a problem with container overflow, which essentially came down to a single “ because it was misplaced and it broke the code 
+
+12/31/2023
+Making some last adjustments and changing the colors to make it look somewhat more appealing. Everything that needs to work does work and will work on more pleasing CSS next time. 
+
+
+
+
+
+
+
+		
